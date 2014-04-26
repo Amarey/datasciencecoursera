@@ -1,7 +1,4 @@
 datasciencecoursera
 ===================
-Hello World .md
-"##
-git add
-git commit
-git push
+$ git check out master
+
